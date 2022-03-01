@@ -184,7 +184,7 @@ a[tabindex]:focus {
   border-color: #FFD800;
 }
 
-card {
+.card {
   margin: 30px;
   color: #fff;
   background-color: #212529;
@@ -196,16 +196,4 @@ card {
 top: 30px;
 left: 30px;
   color: #fff;
-}
-
-footer {
-    
-   left:0px;
-   bottom:1px;
-   height:30px;
-   width:100%;
-    justify-content: center;
-    padding: 5px;
-    background-color: #000620;
-    color: #fff;
 }
